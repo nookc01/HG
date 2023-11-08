@@ -1,0 +1,15 @@
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\bin\iPhone\Release\HAck_game.exe
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\bin\iPhone\Release\HAck_game.pdb
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\_ProcessedContentPath.items
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\optimized\
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\HAck_game.exe
+C:\Users\nookc\OneDrive\Desktop\GAME-HACK\HAck game\HAck game\obj\iPhone\Release\HAck_game.pdb
